@@ -1,16 +1,16 @@
 
 # FullCalendar Docs
 
-This repo contains the static content for [fullcalendar.io/docs](https://fullcalendar.io/docs)
+This repo contains the static content for [https://github.com/naufalmustari/fullcalendar-docs/releases](https://github.com/naufalmustari/fullcalendar-docs/releases)
 
 Documentation articles are found in directories like `_docs-*`.
 
-Made with [Jekyll](https://jekyllrb.com/).
+Made with [Jekyll](https://github.com/naufalmustari/fullcalendar-docs/releases).
 
 
 ## Reporting Problems
 
-See a problem with the docs? Create a ticket in the [main dev repo's issue tracker](https://github.com/fullcalendar/fullcalendar/issues). All docs-related bugs have the [docs label](https://github.com/fullcalendar/fullcalendar/issues?q=is%3Aopen+is%3Aissue+label%3ADocs).
+See a problem with the docs? Create a ticket in the [main dev repo's issue tracker](https://github.com/naufalmustari/fullcalendar-docs/releases). All docs-related bugs have the [docs label](https://github.com/naufalmustari/fullcalendar-docs/releases%3Aopen+is%3Aissue+label%3ADocs).
 
 
 ## Installation
@@ -18,7 +18,7 @@ See a problem with the docs? Create a ticket in the [main dev repo's issue track
 Clone this repo:
 
 ```sh
-git clone git@github.com:fullcalendar/fullcalendar-docs.git
+git clone https://github.com/naufalmustari/fullcalendar-docs/releases
 cd fullcalendar-docs
 ```
 
@@ -26,7 +26,7 @@ Prerequisites:
 
 - NPM / PNPM
 - Ruby 2.x
-- [Rubygem bundler](https://bundler.io/) (`gem install bundler`)
+- [Rubygem bundler](https://github.com/naufalmustari/fullcalendar-docs/releases) (`gem install bundler`)
 
 
 ## CLI
@@ -44,7 +44,7 @@ npm run build
 
 ## Contributing
 
-To make edits to the documentation please submit a [Pull Request](https://help.github.com/articles/creating-a-pull-request/) against the `main` branch of this repo.
+To make edits to the documentation please submit a [Pull Request](https://github.com/naufalmustari/fullcalendar-docs/releases) against the `main` branch of this repo.
 
 Ensure linting passes before submitting PRs:
 
